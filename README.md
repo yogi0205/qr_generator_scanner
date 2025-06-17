@@ -52,5 +52,5 @@ A cross-platform mobile application built with Flutter and Dart, featuring QR co
   
 - StatefulWidget + setState() for state management
 
-Clean architecture with clear separation of concerns
+
 
